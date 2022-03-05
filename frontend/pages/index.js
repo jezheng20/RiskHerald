@@ -1,11 +1,30 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import React from 'react';
+import { useIntl } from 'react-intl';
+import {
+    ProSidebar,
+    Menu,
+    MenuItem,
+    SubMenu,
+    SidebarHeader,
+    SidebarFooter,
+    SidebarContent,
+} from 'react-pro-sidebar';
+import { FaTachometerAlt, FaGem, FaList, FaGithub, FaRegLaughWink, FaHeart } from 'react-icons/fa';
+// import sidebarBg from './assets/bg2.jpg';
+import 'react-pro-sidebar/dist/css/styles.css';
 
-export default function Home() {
+const index = ({ }) => {
+    // const intl = useIntl();
     return (
-        <div>
-            Hello
-        </div>
-    )
-}
+        <ProSidebar
+            breakPoint="md"
+        >
+            <Menu iconShape="square">
+                <MenuItem icon={<FaGem />}>Home</MenuItem>
+                <MenuItem>Map</MenuItem>
+            </Menu>
+        </ProSidebar>
+    );
+};
+
+export default index;
