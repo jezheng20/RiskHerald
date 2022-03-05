@@ -17,7 +17,7 @@ import NextLink from 'next/link';
 
 const Layout = ({ children }) => {
     return (
-        <HStack>
+        <HStack spacing='0px'>
             <ProSidebar
                 breakPoint="md"
                 >
