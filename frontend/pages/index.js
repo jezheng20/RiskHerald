@@ -9,22 +9,38 @@ import {
     SidebarFooter,
     SidebarContent,
 } from 'react-pro-sidebar';
-import { FaTachometerAlt, FaGem, FaList, FaGithub, FaRegLaughWink, FaHeart } from 'react-icons/fa';
-// import sidebarBg from './assets/bg2.jpg';
+import { FaUser, FaHome, FaLocationArrow } from 'react-icons/fa';
 import 'react-pro-sidebar/dist/css/styles.css';
 
 const index = ({ }) => {
-    // const intl = useIntl();
     return (
-        <ProSidebar
-            breakPoint="md"
-        >
-            <Menu iconShape="square">
-                <MenuItem icon={<FaGem />}>Home</MenuItem>
-                <MenuItem>Map</MenuItem>
-            </Menu>
+        <ProSidebar breakpoint='sm'>
+            <SidebarHeader>
+                <div
+                  style={{
+                    padding: '24px',
+                    fontWeight: 'bold',
+                    fontSize: 14,
+                    letterSpacing: '1px',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                Risk Evaluation
+                </div>
+            </SidebarHeader>
+
+            <SidebarContent>
+                <Menu iconShape="circle">
+                  <MenuItem
+                    icon={<FaHome />}
+                  >Home
+                  </MenuItem>
+                  <MenuItem icon={<FaLocationArrow />}>Map</MenuItem>
+                </Menu>
+            </SidebarContent>
         </ProSidebar>
     );
-};
-
+}; 
 export default index;
