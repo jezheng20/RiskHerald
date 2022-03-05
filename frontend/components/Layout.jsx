@@ -9,28 +9,45 @@ import {
     SidebarFooter,
     SidebarContent,
 } from 'react-pro-sidebar';
-import { FaTachometerAlt, FaGem, FaList, FaGithub, FaRegLaughWink, FaHeart } from 'react-icons/fa';
-// import sidebarBg from './assets/bg2.jpg';
+import { FaUser, FaHome, FaLocationArrow } from 'react-icons/fa';
+import sidebarBg from './assets/bg1.jpg';
 import 'react-pro-sidebar/dist/css/styles.css';
-import { HStack } from "@chakra-ui/react";
+import { HStack, Box, useColorModeValue } from "@chakra-ui/react";
 import NextLink from 'next/link';
 
 const Layout = ({ children }) => {
-    // const intl = useIntl();
     return (
         <HStack>
             <ProSidebar
                 breakPoint="md"
-            >
+                >
+                <SidebarHeader>
+	                <div
+	                  style={{
+	                    padding: '24px',
+	                    fontWeight: 'bold',
+	                    fontSize: 14,
+	                    letterSpacing: '1px',
+	                    overflow: 'hidden',
+	                    textOverflow: 'ellipsis',
+	                    whiteSpace: 'nowrap',
+	                  }}>
+	                Risk Evaluation
+	                </div>
+            	</SidebarHeader>
                 <Menu iconShape="square">
                     <NextLink href={"/"} passHref>
-                        <MenuItem icon={<FaGem />}>Home</MenuItem>
+                        <MenuItem icon={<FaHome />}>Home</MenuItem>
                     </NextLink>
                     <NextLink href={"/map"} passHref>
-                        <MenuItem>Map</MenuItem>
+                        <MenuItem icon={<FaLocationArrow />}>Map</MenuItem>
+                    </NextLink>
+                    <NextLink href={"/"} passHref>
+                        <MenuItem icon={<FaUser />}>Near Me</MenuItem>
                     </NextLink>
                 </Menu>
             </ProSidebar>
+
             {children}
         </HStack>
     );
