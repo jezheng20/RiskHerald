@@ -28,7 +28,7 @@ const near_me = ({ }) => {
                     paddingLeft: "30%",
                     width: '70%'
 	            }}>
-	            <h1>Shelters near me</h1>
+	            <h1>Resources near me</h1>
 	            <hr/>
 	        </div>
 	        

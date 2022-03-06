@@ -4,7 +4,9 @@ const evaluate = ({ }) => {
     return (
         <>
         <div className = "indexBack"></div>
-        <div className = "indexMain">
+        <div className = "indexMain" style={{
+        	textAlign: 'center'
+        }}>
             <div style = {{
                     textAlign: "center",
                     marginBottom: "10px",
@@ -12,7 +14,10 @@ const evaluate = ({ }) => {
                     width: '70%'
                 }}>
                 <h1>Evaluate article</h1>
-                <button id='searchButton'>Run</button><input id='searchBar' type='text' placeholder='URL'></input>
+                <button id='searchButton'>Run</button><input id='searchBar' type='text' placeholder='Enter URL...'></input>
+            </div>
+            <div id="codeConsole">
+            aaa
             </div>
         </div>
         </>
