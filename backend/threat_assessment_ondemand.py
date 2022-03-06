@@ -51,10 +51,17 @@ def threatAssessmentPipeline(url: str,
   '''
   
   # Step 1: Extract article text from URL
-  article = newspaper.Article(url)
-  article.download()
-  article.parse()
-  text = article.text
+
+  article = None
+  text = None
+  try:
+    article = newspaper.Article(url)
+    article.download()
+    article.parse()
+    text = article.text
+  except:
+    print('Invalid article')
+    return 0
 
   # Step 2: Perform NER on text
   named_entities = ner_model(text).ents
