@@ -18,6 +18,9 @@ const yellow_icon = L.icon({ iconUrl: "/images/marker-icon-yellow.png",
 const green_icon = L.icon({ iconUrl: "/images/marker-icon-green.png", 
     iconSize: [25,41], iconAnchor: [12,41]});
 
+const black_icon = L.icon({ iconUrl: "/images/marker-icon-black.png", 
+    iconSize: [25,41], iconAnchor: [12,41]});
+
 
 async function getCoordsOfCity(city) {
     await opencage
@@ -40,8 +43,10 @@ function createPopup(position, threat_level, info='') {
         icon = red_icon;
     } else if (threat_level == 'MED LEVEL') {
         icon = yellow_icon;
-    } else {
+    } else if (threat_level == "LOW LEVEL") {
         icon = green_icon;
+    } else {
+        icon = black_icon;
     }
     return (
         <Marker position={position} icon={icon}>
@@ -86,7 +91,19 @@ const Map = () => {
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
-            {arr}
+            {/* {arr} */}
+            {createPopup([50.4501, 30.5234], "HIGH LEVEL")}
+            {createPopup([50.301, 30.5234], "HIGH LEVEL")}
+            {createPopup([50.504, 30.9], "MED LEVEL")}
+            {createPopup([50.4, 30.52], "MED LEVEL")}
+            {createPopup([49.9935, 36.2304], "MED LEVEL")}
+            {createPopup([49.58, 36.2304], "HIGH LEVEL")}
+            {createPopup([43.4130, 34.2993], "MED LEVEL")}
+            {createPopup([44, 34.2993], "MED LEVEL")}
+            {createPopup([45.9432, 24.9668], "LOW LEVEL")}
+            {createPopup([51.1657, 10.4515], "LOW LEVEL")}
+            {createPopup(pos, null)}
+
         </MapContainer>
     )
 }
