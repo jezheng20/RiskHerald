@@ -1,12 +1,22 @@
 import { useRouter } from 'next/router';
 import { Button } from "@chakra-ui/react";
 import { fetchData, getPropsServerSide } from "../fetchUtils.js";
+import { useState } from "react";
 
 const index = ({ data }) => {
     const router = useRouter();
+    const [pos, setPos] = useState([0, 0]);
 
     const refreshData = () => {
         router.replace(router.asPath);
+    }
+
+    if (typeof window !== "undefined") {
+        if ("geolocation" in navigator) {
+            navigator.geolocation.getCurrentPosition((currPos) => {
+                setPos([currPos.coords.latitude, currPos.coords.longitude]);
+            });
+        }
     }
 
     return (
