@@ -17,6 +17,7 @@ const yellow_icon = L.icon({ iconUrl: "/images/marker-icon-yellow.png",
 const green_icon = L.icon({ iconUrl: "/images/marker-icon-green.png", 
     iconSize: [25,41], iconAnchor: [12,41]});
 
+
 async function getCoordsOfCity(address) {
     await opencage
         .geocode({ q: city, key: OPENCAGE_API_KEY })
@@ -41,7 +42,6 @@ function createPopup(position, threat_level, info='') {
     } else {
         icon = green_icon;
     }
-    ++id;
     return (
         <Marker position={position} icon={icon}>
             <Popup>

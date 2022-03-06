@@ -10,7 +10,6 @@ import {
     SidebarContent,
 } from 'react-pro-sidebar';
 import { FaUser, FaHome, FaLocationArrow, FaSistrix } from 'react-icons/fa';
-import sidebarBg from './assets/bg1.jpg';
 import 'react-pro-sidebar/dist/css/styles.css';
 import { HStack, Box, useColorModeValue } from "@chakra-ui/react";
 import NextLink from 'next/link';
