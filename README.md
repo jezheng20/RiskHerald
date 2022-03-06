@@ -7,6 +7,7 @@ next.js
 chakra-ui  
 leaflet-react  
 react-icons  
+opencage
 https://github.com/azouaoui-med/react-pro-sidebar  
 flask  
 nltk  
