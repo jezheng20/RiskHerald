@@ -11,5 +11,5 @@ https://github.com/azouaoui-med/react-pro-sidebar
 flask
 nltk
 spacy
-newspaper.py
+newspaper.py 
 
