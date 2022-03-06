@@ -1,3 +1,6 @@
 Flask
 json
 spacy
+flask_cors
+nltk
+newspaper3k

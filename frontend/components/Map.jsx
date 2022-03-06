@@ -1,8 +1,9 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { fetchData } from "../fetchUtils.js";
 import opencage from "opencage-api-client";
+import threatAss from "../threat_assessments_beautified.json"
 
 const OPENCAGE_API_KEY = "2f2f1fcf0142404dabaf6fac0eb1ba06";
 
@@ -23,6 +24,7 @@ const black_icon = L.icon({ iconUrl: "/images/marker-icon-black.png",
 
 
 async function getCoordsOfCity(city) {
+    console.log(city)
     await opencage
         .geocode({ q: city + ", Ukraine", key: OPENCAGE_API_KEY })
         .then((data) => {
@@ -57,6 +59,20 @@ function createPopup(position, threat_level, info='') {
     );
 }
 
+const cleanUp = async () => {
+    const newData = [];
+    for (let i = 0; i < threatAss.length; ++i) {
+        const curr = threatAss[i];
+        if (curr["Possible location"] != "LOCATION NOT FOUND") {
+            newData.push([curr["Possible location"], curr["Threat message"]]);
+        }
+        // const coords = await getCoordsOfCity(curr["Possible location"]);
+        // newData.push([coords, curr["Threat message"]]);
+    }
+    console.log(newData);
+    return newData;
+}
+
 //Create sample list of entries
 var arr = [];
 for (let i = 0; i < 5; i++) {
@@ -75,6 +91,7 @@ const Map = () => {
     // {console.log(2)}
     // {console.log(threatAss)}
     const [pos, setPos] = useState([0, 0]);
+    const [newData, setNewData] = useState([]);
 
     if (typeof window !== "undefined") {
         if ("geolocation" in navigator) {
@@ -83,6 +100,15 @@ const Map = () => {
             });
         }
     }
+
+    // useEffect(async () => {
+    //     let res = await cleanUp();
+    //     let simp = [];
+    //     // for (let i = 0; i < res.length; ++i) {
+    //     //     if (res[i]
+    //     // }
+    //     setNewData(res);
+    // }, []);
 
     return (
         <MapContainer center={[49, 32]} zoom={6} scrollWheelZoom={true} style={{height: "100vh", width: "100%"}}>
@@ -103,6 +129,11 @@ const Map = () => {
             {createPopup([45.9432, 24.9668], "LOW LEVEL")}
             {createPopup([51.1657, 10.4515], "LOW LEVEL")}
             {createPopup(pos, null)}
+            {/* {console.log("HEREE")} */}
+            {/* {newData.map((pos, threat) => { */}
+            {/*     console.log("HIHI"); */}
+            {/*     return createPopup(pos, threat); */}
+            {/* })} */}
 
         </MapContainer>
     )

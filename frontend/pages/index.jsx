@@ -22,11 +22,39 @@ async function getCoordsOfCity(city) {
         });
 }
 
-function createCard(pos, name)  {
+const stuff = [
+    [[50.4501, 30.5234], "HIGH LEVEL"],
+    [ [50.301, 30.5234], "HIGH LEVEL" ],
+    [ [49.58, 36.2304], "HIGH LEVEL" ],
+    [ [50.504, 30.9], "MED LEVEL" ],
+    [ [50.4, 30.52], "MED LEVEL" ],
+    [ [49.9935, 36.2304], "MED LEVEL" ],
+    [ [43.4130, 34.2993], "MED LEVEL" ],
+    [ [44, 34.2993], "MED LEVEL" ],
+    [ [45.9432, 24.9668], "LOW LEVEL" ],
+    [ [51.1657, 10.4515], "LOW LEVEL" ]
+];
+
+function createCard(pos, name, dist)  {
     let link = "https://www.google.com/maps/place/" + pos[0] + "," + pos[1];
     return (
-        <Card name={name} link={link} distance={Math.round(Math.random()*2300)/100}></Card>
+        <Card name={name} link={link} distance={dist}></Card>
     );
+}
+
+function distance(lat1, lon1, lat2, lon2) {
+  var p = 0.017453292519943295;    // Math.PI / 180
+  var c = Math.cos;
+  var a = 0.5 - c((lat2 - lat1) * p)/2 + 
+          c(lat1 * p) * c(lat2 * p) * 
+          (1 - c((lon2 - lon1) * p))/2;
+
+  return Math.round(12742 * Math.asin(Math.sqrt(a))); // 2 * R; R = 6371 km
+}
+
+const newCard = (loc, threat, loc2) => {
+    console.log(threat);
+    return createCard(loc, threat, distance(loc[0], loc[1], loc2[0], loc2[1]) + "mi");
 }
 
 //Create sample list of entries
@@ -70,7 +98,12 @@ const index = ({ data }) => {
                     overflow: "scroll",
                     height: "80%",
                 }}>
-                {arr}
+                {stuff.map(([loc, threat]) => {
+                    return newCard(loc, threat, pos)
+                })
+                }
+                
+                
             </div>
         </div>
         </>

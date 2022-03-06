@@ -21,9 +21,9 @@ const evaluate = ({ }) => {
         });
         let json = await res.json();
         let dt = json.data;
-        console.log(dt)
-        setData("Possible attack at " + dt['Possible location'] + " at " + dt['Possible times'][0] + " with " + dt['Threat message'])
-    }
+        console.log(dt["Possible times"]);
+        setData("Possible attack at " + dt['Possible location'] + (dt["Possible times"] != "TIME NOT FOUND" ? " at " + dt['Possible times'][0] : "") + " with " + dt['Threat message']);
+    };
 
     return (
         <>
