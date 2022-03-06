@@ -14,15 +14,15 @@ import sidebarBg from './assets/bg1.jpg';
 import 'react-pro-sidebar/dist/css/styles.css';
 import { HStack, Box, useColorModeValue } from "@chakra-ui/react";
 import NextLink from 'next/link';
-import Aside from './Aside'
+import NavBar from './NavBar';
 
 
 const Layout = ({ children }) => {
     return (
         <div>
-        	<HStack spacing = '200px'>
-        	<Aside/>
-            {children}
+            <HStack spacing = '200px'>
+                <NavBar/>
+                {children}
             </HStack>
         </div>
     );

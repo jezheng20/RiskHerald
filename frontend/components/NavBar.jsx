@@ -16,7 +16,7 @@ import { HStack, Box, useColorModeValue } from "@chakra-ui/react";
 import NextLink from 'next/link';
 
 
-const Aside = () => {
+const NavBar = () => {
     return (
         <div style={{
             height: '100%',
@@ -50,7 +50,7 @@ const Aside = () => {
                 <NextLink href={"/map"} passHref>
                     <MenuItem icon={<FaLocationArrow />}>Map</MenuItem>
                 </NextLink>
-                <NextLink href={"/evaluate"} passHref>
+                <NextLink href={"/scan_risk"} passHref>
                     <MenuItem icon={<FaSistrix />}>Scan Risk</MenuItem>
                 </NextLink>
                 <NextLink href={"/near_me"} passHref>
@@ -63,5 +63,5 @@ const Aside = () => {
     );
 };
 
-export default Aside;
+export default NavBar;
 
