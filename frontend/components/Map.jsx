@@ -1,5 +1,43 @@
-import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
-import 'leaflet/dist/leaflet.css'
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+
+const blue_icon = L.icon({ iconUrl: "/images/marker-icon-blue.png", 
+  iconSize: [25,41], iconAnchor: [12,41]});
+
+const red_icon = L.icon({ iconUrl: "/images/marker-icon-red.png", 
+  iconSize: [25,41], iconAnchor: [12,41]});
+
+const yellow_icon = L.icon({ iconUrl: "/images/marker-icon-yellow.png", 
+  iconSize: [25,41], iconAnchor: [12,41]});
+
+const green_icon = L.icon({ iconUrl: "/images/marker-icon-green.png", 
+  iconSize: [25,41], iconAnchor: [12,41]});
+
+function getCoordsOfCity(city) {
+  //TODO: Use geocoding API to get coords
+
+  return [x,y];
+}
+
+function createPopup(position, threat_level, info) {
+  var color = 'green';
+
+  //TODO: Use threat level to determine icon (see above)
+
+  return (
+    <Marker position={position}>
+      <Popup>
+        {threat_level}
+      </Popup>
+    </Marker>
+  );
+}
+
+function mapCoords() {
+  for(let i = 0; i < list_of_coords.length; i++) {
+    createPopup();
+  }
+}
 
 const Map = () => {
   return (
@@ -8,7 +46,7 @@ const Map = () => {
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-
+      //TODO: Add marker support
     </MapContainer>
   )
 }
