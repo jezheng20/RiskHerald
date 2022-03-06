@@ -1,3 +1,5 @@
+import { fetchData, getPropsServerSide } from "../fetchUtils.js";
+
 const evaluate = ({ }) => {
     return (
         <div>
@@ -7,3 +9,7 @@ const evaluate = ({ }) => {
 };
 
 export default evaluate;
+
+export const getServerSideProps = async () => {
+    return getPropsServerSide();
+};

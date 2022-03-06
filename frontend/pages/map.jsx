@@ -1,5 +1,6 @@
 import React from 'react'
 import dynamic from 'next/dynamic'
+import { fetchData, getPropsServerSide } from "../fetchUtils.js";
 
 const map = () => {
   
@@ -14,3 +15,7 @@ const map = () => {
 };
 
 export default map;
+
+export const getServerSideProps = async () => {
+    return getPropsServerSide();
+};
