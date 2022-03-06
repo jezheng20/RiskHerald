@@ -29,6 +29,7 @@ const near_me = ({ }) => {
                     width: '70%'
 	            }}>
 	            <h1>Shelters near me</h1>
+	            <hr/>
 	        </div>
 	        
 	        <div className = "scrollBar" style = {{
