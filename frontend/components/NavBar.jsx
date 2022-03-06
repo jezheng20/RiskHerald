@@ -39,7 +39,7 @@ const NavBar = () => {
 	                textOverflow: 'ellipsis',
 	                whiteSpace: 'nowrap',
 	                }}>
-	            Risk Evaluation
+	            Threatmap
 	            </div>
             </SidebarHeader>
             <Menu iconShape="square">
