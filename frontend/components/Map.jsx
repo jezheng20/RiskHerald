@@ -2,6 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { useState } from "react";
 import { fetchData } from "../fetchUtils.js";
+import opencage from "opencage-api-client";
 
 const OPENCAGE_API_KEY = "2f2f1fcf0142404dabaf6fac0eb1ba06";
 
@@ -18,7 +19,7 @@ const green_icon = L.icon({ iconUrl: "/images/marker-icon-green.png",
     iconSize: [25,41], iconAnchor: [12,41]});
 
 
-async function getCoordsOfCity(address) {
+async function getCoordsOfCity(city) {
     await opencage
         .geocode({ q: city, key: OPENCAGE_API_KEY })
         .then((data) => {
@@ -75,8 +76,10 @@ const Map = () => {
             });
         }
     }
+
     return (
         <MapContainer center={[49, 32]} zoom={6} scrollWheelZoom={true} style={{height: "100vh", width: "100%"}}>
+            {/*console.log(await getCoordsOfCity("Kyiv"))*/}
             <TileLayer
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
