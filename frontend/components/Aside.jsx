@@ -50,10 +50,10 @@ const Aside = () => {
                 <NextLink href={"/map"} passHref>
                     <MenuItem icon={<FaLocationArrow />}>Map</MenuItem>
                 </NextLink>
-                <NextLink href={"/"} passHref>
+                <NextLink href={"/evaluate"} passHref>
                     <MenuItem icon={<FaSistrix />}>Scan Risk</MenuItem>
                 </NextLink>
-                <NextLink href={"/"} passHref>
+                <NextLink href={"/near_me"} passHref>
                     <MenuItem icon={<FaUser />}>Near Me</MenuItem>
                 </NextLink>
             </Menu>
