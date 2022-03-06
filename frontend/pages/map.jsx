@@ -2,6 +2,7 @@ import React from 'react'
 import dynamic from 'next/dynamic'
 
 const map = () => {
+  
   const Map = React.useMemo(() => dynamic(
     () => import('../components/map'), // replace '@components/map' with your component's location
     { 
