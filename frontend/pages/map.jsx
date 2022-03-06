@@ -12,4 +12,4 @@ const map = () => {
   return <Map />;
 };
 
-export default map
+export default map;
