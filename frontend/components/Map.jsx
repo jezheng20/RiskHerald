@@ -1,6 +1,7 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { useState } from "react";
+import { fetchData } from "../fetchUtils.js";
 
 const blue_icon = L.icon({ iconUrl: "/images/marker-icon-blue.png", 
     iconSize: [25,41], iconAnchor: [12,41]});
