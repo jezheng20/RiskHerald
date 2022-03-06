@@ -21,7 +21,7 @@ const green_icon = L.icon({ iconUrl: "/images/marker-icon-green.png",
 
 async function getCoordsOfCity(city) {
     await opencage
-        .geocode({ q: city, key: OPENCAGE_API_KEY })
+        .geocode({ q: city + ", Ukraine", key: OPENCAGE_API_KEY })
         .then((data) => {
             if (data.results.length > 0) {
                 const place = data.results[0];
@@ -67,6 +67,8 @@ function mapCoords() {
 }
 
 const Map = () => {
+    // {console.log(2)}
+    // {console.log(threatAss)}
     const [pos, setPos] = useState([0, 0]);
 
     if (typeof window !== "undefined") {
@@ -90,3 +92,27 @@ const Map = () => {
 }
 
 export default Map;
+
+// export const getStaticProps = async () => {
+//     // const THREAT_ASS_PATH = "../threat_assessments_beautified.json";
+//     // const threatAss = JSON.parse(readFileSync(THREAT_ASS_PATH));
+//     const API = "http://127.0.0.1:5000/static_json";
+//     const res = await fetch(API, {
+//         method: "GET",
+//         headers: {
+//             "Content-Type": "application/json"
+//         },
+//     });
+//     console.log(res);
+//     const data = await res.json();
+//     const threatAss = data.data;
+//     console.log("DATA: ", data);
+
+//     console.log(2);
+//     console.log(threatAss);
+//     console.log(1);
+
+//     return {
+//         props: { threatAss }
+//     };
+// };

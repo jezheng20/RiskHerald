@@ -1,0 +1,3049 @@
+[
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-02-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.22727272727272727,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "last month",
+            "two days",
+            "a cold day"
+        ],
+        "Possible times": [
+            "six-hour",
+            "hours"
+        ],
+        "Possible actors": [
+            "CNN",
+            "US Embassy"
+        ],
+        "Keywords": [
+            "invasion",
+            "concern"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-03-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.1363636363636365,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "early Friday",
+            "1986"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Zelensky"
+        ],
+        "Keywords": [
+            "attack",
+            "victim",
+            "battle",
+            "tragedy",
+            "terror"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-01-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Tuesday",
+            "Six days ago",
+            "this era"
+        ],
+        "Possible times": [
+            "night",
+            "tonight"
+        ],
+        "Possible actors": [
+            "CNN",
+            "Dougherty",
+            "the Justice Department's"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "defend"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-04-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.5681818181818182,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "the last week",
+            "days"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "CNN",
+            "Szuszkiewicz"
+        ],
+        "Keywords": [
+            "bomb",
+            "alive",
+            "dangerous",
+            "war",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-28-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.25,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Monday",
+            "weeks",
+            "The day"
+        ],
+        "Possible times": [
+            "evening"
+        ],
+        "Possible actors": [
+            "Maxar Technologies",
+            "Maxar",
+            "Capella Space"
+        ],
+        "Keywords": [
+            "military",
+            "invasion",
+            "Military"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-05-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.22727272727272727,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "18 to 60",
+            "several weekends",
+            "every day"
+        ],
+        "Possible times": [
+            "5:36 a.m."
+        ],
+        "Possible actors": [
+            "Belaya",
+            "CNN"
+        ],
+        "Keywords": [
+            "war",
+            "alive"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/travel/article/russia-ukraine-hurt-travel-recovery-cmd/index.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.9545454545454546,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Wednesday",
+            "Thursday",
+            "a year"
+        ],
+        "Possible times": [
+            "night",
+            "morning"
+        ],
+        "Possible actors": [
+            "CNN",
+            "Lufthansa",
+            "EASA"
+        ],
+        "Keywords": [
+            "conflict",
+            "invasion",
+            "fear",
+            "risk",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-25-22/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "late Friday",
+            "the last year",
+            "earlier Friday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "State",
+            "the White House",
+            "The State Department"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-24-22-intl/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Thursday",
+            "the coming days"
+        ],
+        "Possible times": [
+            "Earlier Thursday"
+        ],
+        "Possible actors": [
+            "NATO",
+            "the Joint Chiefs of Staff",
+            "Milley"
+        ],
+        "Keywords": [
+            "invasion",
+            "military",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.cnn.com/2022/03/04/business/russia-ukraine-supply-chain-oil/index.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.45454545454545453,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Thursday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "CNN Business",
+            "Moody's Analytics",
+            "Moody's"
+        ],
+        "Keywords": [
+            "invasion",
+            "risk",
+            "military",
+            "conflict"
+        ]
+    },
+    {
+        "URL": "https://abcnews.go.com/Politics/live-updates/russia-ukraine/?id=82467772",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.5681818181818182,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "the last day",
+            "Tuesday",
+            "the last week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kherson"
+        ],
+        "Keywords": [
+            "attacking",
+            "risk",
+            "attack",
+            "military",
+            "assault"
+        ]
+    },
+    {
+        "URL": "https://abcnews.go.com/International/live-updates/russia-ukraine/?id=83184729",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Saturday",
+            "the last week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "State",
+            "NATO"
+        ],
+        "Keywords": [
+            "avoided",
+            "war",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60571737",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.5681818181818182,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "invasion",
+            "violence",
+            "war",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60558731",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "VTB bank",
+            "Google Pay",
+            "Apple"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60551140",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kremlin"
+        ],
+        "Keywords": [
+            "threat"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-asia-china-60615280",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.cnn.com/2022/03/02/middleeast/mideast-summary-03-02-2022-intl/index.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.5,
+        "Possible location": "Gulf",
+        "Possible dates": [
+            "Tuesday",
+            "Monday",
+            "last week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "UAE",
+            "Abu Dhabi",
+            "CNN"
+        ],
+        "Keywords": [
+            "war",
+            "invasion",
+            "conflict",
+            "risk",
+            "assault"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/business-60571133",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "KPMG"
+        ],
+        "Keywords": [
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.politico.com/news/2022/03/03/russia-ukraine-crisis-where-things-stand-00013728",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.25,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Feb. 21",
+            "2014",
+            "Feb. 22"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "EU",
+            "the White House",
+            "RT"
+        ],
+        "Keywords": [
+            "invasion",
+            "conflict",
+            "incursion",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60597367",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "BBC"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.foxnews.com/sports/russia-ukraine-war-dayana-yastremska-lyon-open-semis",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.5909090909090908,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Saturday",
+            "last week",
+            "Days later"
+        ],
+        "Possible times": [
+            "the night",
+            "late at night",
+            "next morning"
+        ],
+        "Possible actors": [
+            "RUSSIA",
+            "Fox News",
+            "UPDATES"
+        ],
+        "Keywords": [
+            "bomb",
+            "father",
+            "war",
+            "invasion",
+            "INVASION"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/live-news/russia-ukraine-cyberattacks",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.1363636363636365,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Saturday",
+            "Feb. 4"
+        ],
+        "Possible times": [
+            "evening",
+            "night"
+        ],
+        "Possible actors": [
+            "the Armed Forces of Ukraine",
+            "Royal Canadian Air Force"
+        ],
+        "Keywords": [
+            "military",
+            "Forces"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/live-news/russia-ukraine-war-day-7",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.6818181818181818,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "civilian",
+            "dead",
+            "killed",
+            "killing",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/live-news/russia-ukraine-war-3-4-2022",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.6818181818181818,
+        "Possible location": "Europe",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "IAEA"
+        ],
+        "Keywords": [
+            "bomb",
+            "terror",
+            "attack",
+            "consequence",
+            "casualty"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/sports/russia-ukraine-war-gymnastics-curling-sports-bans",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Friday",
+            "the season",
+            "this year"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "The World Curling Federation",
+            "Fox News",
+            "The International Gymnastics Federation"
+        ],
+        "Keywords": [
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/live-news/russia-ukraine-war-3-3-2022",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.6818181818181818,
+        "Possible location": "Europe",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "IAEA"
+        ],
+        "Keywords": [
+            "bomb",
+            "terror",
+            "attack",
+            "consequence",
+            "casualty"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/politics/kamala-harris-travel-europe-amid-russia-ukraine-war",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "next week",
+            "March 9-11",
+            "last week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Fox News",
+            "the NATO Alliance",
+            "NATO"
+        ],
+        "Keywords": [
+            "invasion",
+            "violence",
+            "aggression",
+            "war",
+            "consequence"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/world/russia-ukraine-war-photos-harsh-realities-ukrainians-under-siege",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.4772727272727273,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Friday",
+            "Saturday",
+            "between Feb. 24 and midnight"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "UN",
+            "Fox News",
+            "The United Nations"
+        ],
+        "Keywords": [
+            "civilian",
+            "death",
+            "war",
+            "WAR",
+            "CRIMES"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/politics/ice-suspends-deportation-flights-countries-russia-ukraine-war-report",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Thursday",
+            "Saturday",
+            "year"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Fox News",
+            "ICE",
+            "BIDEN ADMINISTRATION HALTS ICE"
+        ],
+        "Keywords": [
+            "invasion",
+            "Deportations",
+            "INVASION",
+            "attack",
+            "violence"
+        ]
+    },
+    {
+        "URL": "https://www.foxnews.com/politics/russia-ukraine-war-us-deterrent-strategy-putin",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.7045454545454544,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "2015",
+            "Fifty years ago"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Koffler",
+            "Fox News",
+            "Defense Intelligence Agency"
+        ],
+        "Keywords": [
+            "war",
+            "invasion",
+            "attack",
+            "attacked",
+            "War"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "West",
+        "Possible dates": [
+            "This winter",
+            "years",
+            "months"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "NATO",
+            "the House Intelligence Committee"
+        ],
+        "Keywords": [
+            "invasion",
+            "military",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/04/us/immigrant-identity-russia-ukraine.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "Southern California",
+        "Possible dates": [
+            "46"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "father",
+            "assault",
+            "aggressor"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.22727272727272727,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "decades",
+            "years",
+            "Friday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "the European Union",
+            "European Union"
+        ],
+        "Keywords": [
+            "invasion",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Friday",
+            "Saturday",
+            "two days"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "BORDER",
+            "the Joint Chiefs of Staff",
+            "the U.S. Air Force"
+        ],
+        "Keywords": [
+            "military",
+            "enemy"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "weeks",
+            "months",
+            "days"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kremlin"
+        ],
+        "Keywords": [
+            "battle",
+            "assault",
+            "attacked",
+            "invasion",
+            "army"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/news-event/ukraine-russia",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.4772727272727273,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Monday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "the United Nations",
+            "the General Assembly",
+            "Pentagon"
+        ],
+        "Keywords": [
+            "military",
+            "war",
+            "killed",
+            "battle",
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.45454545454545453,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "2015"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "NATO",
+            "European Union",
+            "the International Donors Coordination Center"
+        ],
+        "Keywords": [
+            "military",
+            "possibility",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.0227272727272727,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "five days",
+            "Monday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "war",
+            "dead",
+            "attacked",
+            "invasion",
+            "fighting"
+        ]
+    },
+    {
+        "URL": "https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.45454545454545453,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "more than a decade",
+            "the 21st century",
+            "Three days"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "military",
+            "subjugation",
+            "invasion",
+            "conflict"
+        ]
+    },
+    {
+        "URL": "https://www.latimes.com/opinion/story/2019-12-22/jonathan-turley-trump-impeachment",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "the holiday season",
+            "election day"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Turley",
+            "Senate",
+            "House"
+        ],
+        "Keywords": [
+            "defend"
+        ]
+    },
+    {
+        "URL": "https://www.latimes.com/opinion/story/2019-11-20/trumps-craven-backtracking-on-vaping",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "Middle East",
+        "Possible dates": [
+            "September",
+            "weeks",
+            "recent years"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "FDA",
+            "the Food and Drug Administration",
+            "the Department of Health and Human Services"
+        ],
+        "Keywords": [
+            "died",
+            "risk",
+            "dying",
+            "victim",
+            "harm"
+        ]
+    },
+    {
+        "URL": "https://www.latimes.com/opinion/story/2020-01-18/link-trump-to-the-astros-cheating-scandal",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "Trump",
+        "Possible dates": [
+            "Earlier this week",
+            "2017"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "the L.A. Times",
+            "Marina del Rey",
+            "MSNBC"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.washingtonpost.com/world/2022/03/05/russia-ukraine-war-news-live-updates/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "years"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "U.N."
+        ],
+        "Keywords": [
+            "war",
+            "assault",
+            "War",
+            "strike",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.washingtonpost.com/business/2022/03/05/global-economy-russia-ukraine/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.4772727272727273,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "2008",
+            "2018",
+            "today"
+        ],
+        "Possible times": [
+            "overnight"
+        ],
+        "Possible actors": [
+            "Congress",
+            "the World Bank",
+            "Rock Creek Global Advisors"
+        ],
+        "Keywords": [
+            "war",
+            "War",
+            "risk",
+            "attack",
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.washingtonpost.com/world/2022/03/04/russia-ukraine-war-putin-news/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "years"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "U.N."
+        ],
+        "Keywords": [
+            "war",
+            "assault",
+            "War",
+            "strike",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.washingtonpost.com/world/2022/03/02/russia-ukraine-war-putin-news/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "early February",
+            "Wednesday",
+            "Feb. 4"
+        ],
+        "Possible times": [
+            "earlier Wednesday"
+        ],
+        "Possible actors": [
+            "Chinese Communist Party",
+            "the New York Times",
+            "Uyghurs"
+        ],
+        "Keywords": [
+            "invasion",
+            "repression",
+            "attacking",
+            "concern"
+        ]
+    },
+    {
+        "URL": "https://pagesix.com/2013/05/02/reason-behind-naomi-and-vlads-break/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "Ibiza",
+        "Possible dates": [
+            "five-year",
+            "earlier this week",
+            "March"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Campbell",
+            "Naomi",
+            "Diddy"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2013/09/01/judges-bail-on-naomi-campbells-show-the-face/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2013/08/26/fat-joe-turns-himself-in-to-prison-for-tax-evasion/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.22727272727272727,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "today",
+            "four-month",
+            "2007"
+        ],
+        "Possible times": [
+            "earlier this morning"
+        ],
+        "Possible actors": [
+            "the Federal Detention Center"
+        ],
+        "Keywords": [
+            "owing",
+            "avoiding"
+        ]
+    },
+    {
+        "URL": "https://pagesix.com/2008/04/05/housewives-costs-exec-his-job/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.22727272727272727,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "two years",
+            "Jan. 22",
+            "last month"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Colodne",
+            "Patriarch",
+            "Avery"
+        ],
+        "Keywords": [
+            "bystander",
+            "avoid"
+        ]
+    },
+    {
+        "URL": "https://pagesix.com/2013/08/31/exiting-eateries/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2010/08/15/molly-sims-talks-heidi-montag-britney-spears-and-jennifer-aniston/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2013/03/25/pregnant-kim-kardashian-im-not-200-pounds/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "Kamp",
+        "Possible dates": [
+            "last week",
+            "this week",
+            "five-months"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "K",
+            "Kris Humphries"
+        ],
+        "Keywords": [
+            "father"
+        ]
+    },
+    {
+        "URL": "https://pagesix.com/2010/10/12/paris-hilton-brandon-davis-get-toilet-for-two/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2009/07/15/artist-dash-snow-27-dies-of-drug-overdose/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://pagesix.com/2008/04/11/fists-fly-at-howard-stern-show/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "Lange",
+        "Possible dates": [
+            "yesterday",
+            "last week",
+            "next week"
+        ],
+        "Possible times": [
+            "last night"
+        ],
+        "Possible actors": [
+            "Lange",
+            "Stern",
+            "Sirius Satellite"
+        ],
+        "Keywords": [
+            "defend"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/russias-ukraine-conflict-big-inflation-report-will-keep-the-stock-market-volatile-in-coming-week-.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.6818181818181818,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Friday",
+            "the past week",
+            "the week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "NYSE",
+            "UNFI",
+            "SFIX"
+        ],
+        "Keywords": [
+            "invasion",
+            "battle",
+            "risk",
+            "fear",
+            "conflict"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/russia-ukraine-war-cryptocurrencies-and-sanctions-in-the-spotlight-.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Thursday",
+            "Earlier this week",
+            "Wednesday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "CNBC",
+            "CryptoCompare",
+            "SWIFT"
+        ],
+        "Keywords": [
+            "invasion",
+            "risk",
+            "avoid",
+            "attack",
+            "avoiding"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/03/russia-ukraine-live-updates.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Friday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "IAEA",
+            "NPP",
+            "IMMEDIATELY"
+        ],
+        "Keywords": [
+            "battle",
+            "danger",
+            "attacked",
+            "attack",
+            "army"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/russias-ukraine-war-could-lead-to-the-largest-disruption-ever-in-commodities-supply-says-goldman.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "4 2022"
+        ],
+        "Possible times": [
+            "8:53 AM EST"
+        ],
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/05/russian-state-media-claims-temporary-ceasefire-at-mariupol-volnovakha.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Saturday",
+            "February 26, 2022"
+        ],
+        "Possible times": [
+            "midday",
+            "10 a.m.",
+            "2 a.m. ET"
+        ],
+        "Possible actors": [
+            "NBC News",
+            "Evacuation",
+            "Parliament"
+        ],
+        "Keywords": [
+            "civilian",
+            "fighting",
+            "military",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/05/russian-state-media-declares-ceasefire-in-ukraine.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.45454545454545453,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Saturday",
+            "Monday"
+        ],
+        "Possible times": [
+            "Earlier in the day"
+        ],
+        "Possible actors": [
+            "The U.S. State Department",
+            "Kremlin"
+        ],
+        "Keywords": [
+            "harassment",
+            "civilian",
+            "conflict",
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/russia-ukraine-latest-updates.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 3.295454545454545,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Friday",
+            "February 23, 2022"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "the International Criminal Court",
+            "the U.N. General Assembly",
+            "the United Nations Headquarters"
+        ],
+        "Keywords": [
+            "crime",
+            "aggression",
+            "war",
+            "attack",
+            "bomb"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/energy-etfs-jump-amid-russia-ukraine-conflict-how-to-trade-them.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "this week",
+            "2018",
+            "Thursday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "XLE",
+            "XOP",
+            "The Energy Select Sector SPDR Fund"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "conflict"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/03/russia-ukraine-conflict-has-a-limited-impact-on-chinas-food-supply-analysts-say.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.5681818181818182,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "2021",
+            "last year",
+            "Monday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Hinrich Foundation",
+            "Moody's Analytics",
+            "Cochrane"
+        ],
+        "Keywords": [
+            "concern",
+            "conflict",
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.cnbc.com/2022/03/04/video-game-firms-move-to-cut-off-russia-amid-ukraine-war.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.45454545454545453,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Microsoft",
+            "Sony",
+            "CD Projekt"
+        ],
+        "Keywords": [
+            "invasion",
+            "aggression",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10576731/Russia-Ukraine-live-updates-war-invasion-Putin.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.9545454545454546,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "today",
+            "15 years",
+            "last week"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kremlin",
+            "BBC",
+            "UN"
+        ],
+        "Keywords": [
+            "attack",
+            "invasion",
+            "war",
+            "crime",
+            "bomb"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10572445/Russia-Ukraine-live-updates-war-invasion-Putin.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.159090909090909,
+        "Possible location": "Black Sea",
+        "Possible dates": [
+            "today",
+            "a week ago",
+            "days"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kherson",
+            "the European Union",
+            "United Nations"
+        ],
+        "Keywords": [
+            "invasion",
+            "killed",
+            "crime",
+            "fighting",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10580899/RUSSIA-UKRAINE-LIVE-Russia-keeps-attacking-Mariupol-despite-ceasefire-latest-updates.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "its 10th day",
+            "today"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Foreign Office"
+        ],
+        "Keywords": [
+            "attacking",
+            "invasion",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10568083/Russia-Ukraine-live-updates-war-invasion.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.159090909090909,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "today",
+            "Seven days",
+            "yesterday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Chelsea",
+            "Kyiv",
+            "UN"
+        ],
+        "Keywords": [
+            "attack",
+            "war",
+            "assault",
+            "civilian",
+            "risk"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10559377/Russia-Ukraine-live-updates-war-invasion.html",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "its 10th day"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Sky News'",
+            "Stuart Ramsay and Foreign Office"
+        ],
+        "Keywords": [
+            "attacking",
+            "invasion",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10579619/Baby-rescued-scene-atrocity-Russian-forces-step-attacks-civilian-areas.html",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 22.045454545454547,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Friday",
+            "Saturday",
+            "March 4"
+        ],
+        "Possible times": [
+            "five hours",
+            "hours",
+            "five-hour"
+        ],
+        "Possible actors": [
+            "NATO",
+            "UN",
+            "Kremlin"
+        ],
+        "Keywords": [
+            "attack",
+            "war",
+            "civilian",
+            "invasion",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10581425/Russia-Ukraine-hold-round-peace-talks-Monday-Kyiv-claims.html",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 3.0681818181818183,
+        "Possible location": "Interfax",
+        "Possible dates": [
+            "Saturday",
+            "Monday",
+            "Thursday"
+        ],
+        "Possible times": [
+            "three-hour",
+            "afternoon",
+            "night"
+        ],
+        "Possible actors": [
+            "Kyiv",
+            "NATO",
+            "Kremlin"
+        ],
+        "Keywords": [
+            "civilian",
+            "invasion",
+            "war",
+            "threat",
+            "conflict"
+        ]
+    },
+    {
+        "URL": "http://www.dailymail.co.uk/news/russia-ukraine-conflict/index.html",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 8.863636363636363,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "today",
+            "Monday",
+            "February 24"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kremlin",
+            "White House",
+            "Haas"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "killed",
+            "attack",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10568563/Who-stands-against-Putin-Map-shows-nations-support-Ukraine-invasion.html",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 9.659090909090908,
+        "Possible location": "West",
+        "Possible dates": [
+            "Sunday",
+            "last week",
+            "today"
+        ],
+        "Possible times": [
+            "Last night",
+            "two hours"
+        ],
+        "Possible actors": [
+            "Kremlin",
+            "NATO",
+            "EU"
+        ],
+        "Keywords": [
+            "invasion",
+            "military",
+            "war",
+            "conflict",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.dailymail.co.uk/news/article-10559373/Ukraine-war-Kyiv-survives-night-Russians-suffer-losses.html",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 18.522727272727273,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Monday",
+            "Sunday",
+            "today"
+        ],
+        "Possible times": [
+            "morning",
+            "overnight",
+            "the early hours"
+        ],
+        "Possible actors": [
+            "EU",
+            "Kremlin",
+            "NATO"
+        ],
+        "Keywords": [
+            "military",
+            "war",
+            "attack",
+            "fighting",
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-56720589",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60626921",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "fighting"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60626536",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.3409090909090909,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "a year or so earlier"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Finns"
+        ],
+        "Keywords": [
+            "army",
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-60525350",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "BBC"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60600487",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60571737",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.5681818181818182,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "invasion",
+            "violence",
+            "war",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60506682",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "daily"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "BBC",
+            "the UK Ministry of Defence"
+        ],
+        "Keywords": [
+            "attack"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60613438",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "war"
+        ]
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60558731",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "VTB bank",
+            "Google Pay",
+            "Apple"
+        ],
+        "Keywords": "NO RELEVANT KEYWORDS FOUND"
+    },
+    {
+        "URL": "https://www.bbc.com/news/world-europe-60617365",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": "DATE NOT FOUND",
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "risk"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/05/ukraine-putins-war-kyiv-turning-into-long-slog-death-despair/9377108002/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.7954545454545454,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "A week",
+            "week-old"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": "ACTORS NOT FOUND",
+        "Keywords": [
+            "war",
+            "risk",
+            "kill",
+            "killing",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/03/ukraine-russia-invasion-live-updates/9353494002/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 8.409090909090908,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Thursday",
+            "Tuesday",
+            "2014"
+        ],
+        "Possible times": [
+            "90 minutes"
+        ],
+        "Possible actors": [
+            "White House",
+            "The White House",
+            "The New York Times"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "military",
+            "attack",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/02/28/russia-ukraine-updates/6969216001/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 7.613636363636364,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Monday",
+            "Thursday",
+            "the weekend"
+        ],
+        "Possible times": [
+            "morning",
+            "hours",
+            "this evening"
+        ],
+        "Possible actors": [
+            "EU",
+            "NATO",
+            "Kremlin"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "military",
+            "fighting",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/05/ukraine-russia-invasion-live-updates/9388548002/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 11.931818181818182,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Saturday",
+            "Friday",
+            "Monday"
+        ],
+        "Possible times": [
+            "night",
+            "11 a.m.",
+            "9 a.m. GMT"
+        ],
+        "Possible actors": [
+            "Associated Press",
+            "Congress",
+            "RFE/RL"
+        ],
+        "Keywords": [
+            "war",
+            "invasion",
+            "civilian",
+            "attack",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/02/ukraine-russia-invasion-live-updates/9334724002/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 16.363636363636363,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Wednesday",
+            "Tuesday",
+            "Monday"
+        ],
+        "Possible times": [
+            "morning",
+            "night",
+            "Tonight"
+        ],
+        "Possible actors": [
+            "Kremlin",
+            "NATO",
+            "the International Criminal Court"
+        ],
+        "Keywords": [
+            "war",
+            "invasion",
+            "crime",
+            "military",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/04/ukraine-russia-invasion-live-updates/9369419002/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 8.522727272727272,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Friday",
+            "Thursday",
+            "Saturday"
+        ],
+        "Possible times": [
+            "morning",
+            "10 a.m.",
+            "night"
+        ],
+        "Possible actors": [
+            "NATO",
+            "Kremlin",
+            "U.N."
+        ],
+        "Keywords": [
+            "war",
+            "military",
+            "attack",
+            "invasion",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/tech/columnist/komando/2022/03/02/beware-10-russia-ukraine-scams-via-email-phone-and-social-media/9342759002/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.25,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "2021",
+            "Today",
+            "this year"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "IRS",
+            "the American Red Cross",
+            "Red Cross"
+        ],
+        "Keywords": [
+            "war",
+            "tragedy",
+            "risk",
+            "deceased",
+            "victim"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/travel/airline-news/2022/03/01/how-russia-ukraine-conflict-impacts-air-travel/6978208001/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Asia",
+        "Possible dates": [
+            "March 28",
+            "last week",
+            "recent days"
+        ],
+        "Possible times": [
+            "370 minutes"
+        ],
+        "Possible actors": [
+            "Aeroflot",
+            "EU",
+            "the European Union"
+        ],
+        "Keywords": [
+            "conflict",
+            "avoid",
+            "invasion",
+            "fighting",
+            "military"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/03/03/what-armistice-russia-ukraine/9364877002/",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.5909090909090908,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Thursday",
+            "last week",
+            "Nov. 11, 1918"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "The New York Times",
+            "UN",
+            "the National Museum of American Diplomacy"
+        ],
+        "Keywords": [
+            "conflict",
+            "war",
+            "died",
+            "attack",
+            "War"
+        ]
+    },
+    {
+        "URL": "https://www.usatoday.com/story/news/politics/2022/02/27/ukraine-russia-invasion-live-updates/6960680001/",
+        "Threat message": "HIGH THREAT",
+        "Raw threat rating": 18.977272727272727,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Sunday",
+            "Monday",
+            "Friday"
+        ],
+        "Possible times": [
+            "morning",
+            "more than 30 hours",
+            "1 a.m."
+        ],
+        "Possible actors": [
+            "Associated Press",
+            "EU",
+            "NATO"
+        ],
+        "Keywords": [
+            "invasion",
+            "war",
+            "military",
+            "attack",
+            "civilian"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/world/2022/mar/05/russia-ukraine-war-what-we-know-on-day-ten-of-the-russian-invasion",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.8181818181818181,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "Friday",
+            "as early as next week",
+            "Monday"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Nato",
+            "Reuters",
+            "UN"
+        ],
+        "Keywords": [
+            "attack",
+            "civilian",
+            "invasion",
+            "war",
+            "killed"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/world/2022/mar/03/russia-ukraine-conflict-top-10-war-myths-newsguard",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.9090909090909091,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "2014",
+            "Monday",
+            "week-long"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "NewsGuard",
+            "Facebook",
+            "EU"
+        ],
+        "Keywords": [
+            "conflict",
+            "war",
+            "attack",
+            "invasion",
+            "adversary"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/world/2022/mar/02/united-nations-russia-ukraine-vote",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.4772727272727273,
+        "Possible location": "Europe",
+        "Possible dates": [
+            "2014",
+            "Friday",
+            "40 years"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "UN",
+            "The United Nations",
+            "general assembly"
+        ],
+        "Keywords": [
+            "invasion",
+            "military",
+            "war",
+            "attack",
+            "threat"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/commentisfree/2022/feb/28/vladimir-putin-war-russia-ukraine",
+        "Threat message": "SOME THREAT",
+        "Raw threat rating": 2.159090909090909,
+        "Possible location": "Kyiv",
+        "Possible dates": [
+            "Less than a week",
+            "more than a thousand years",
+            "2014"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Kyiv",
+            "Nato",
+            "Crimea"
+        ],
+        "Keywords": [
+            "war",
+            "killed",
+            "hatred",
+            "battle",
+            "invasion"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/world/2022/mar/04/reassure-children-about-russia-ukraine-war-with-resilience-tales-say-experts",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 1.1363636363636365,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "day"
+        ],
+        "Possible times": "TIME NOT FOUND",
+        "Possible actors": [
+            "Service Children’s Education",
+            "Hughesman",
+            "Quick Guide"
+        ],
+        "Keywords": [
+            "conflict",
+            "war",
+            "attack",
+            "fear",
+            "defend"
+        ]
+    },
+    {
+        "URL": "https://www.theguardian.com/world/live/2022/mar/02/ukraine-news-russia-war-kyiv-kharkiv-russian-invasion-vladimir-putin-joe-biden-latest-live-updates",
+        "Threat message": "LOW THREAT",
+        "Raw threat rating": 0.11363636363636363,
+        "Possible location": "LOCATION NOT FOUND",
+        "Possible dates": [
+            "Thursday",
+            "recent days",
+            "last week"
+        ],
+        "Possible times": [
+            "10am",
+            "About 10.05am this morning"
+        ],
+        "Possible actors": [
+            "ACT",
+            "ABC",
+            "ACT Policing"
+        ],
+        "Keywords": [
+            "avoid"
+        ]
+    },
+  {
+    "URL": "https://www.theguardian.com/world/2022/mar/03/russia-ukraine-war-russian-invasion-news-what-we-know-so-far-on-day-seven",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 2.272727272727273,
+    "Possible location": "Black Sea",
+    "Possible dates": [
+      "the first six days"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "Mykhailo Podolyak",
+      "Kremlin",
+      "the International Paralympic Committee"
+    ],
+    "Keywords": [
+      "military",
+      "killed",
+      "invasion",
+      "war",
+      "civilian"
+    ]
+  },
+  {
+    "URL": "https://www.theguardian.com/world/live/2022/mar/03/ukraine-news-russia-war-vladimir-putin-biden-latest-live-updates-kherson-kyiv-kharkiv-refugees-russian-invasion",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.11363636363636363,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": "ACTORS NOT FOUND",
+    "Keywords": [
+      "invasion"
+    ]
+  },
+  {
+    "URL": "https://www.theguardian.com/world/2022/mar/04/nato-chief-warns-of-worse-suffering-in-ukraine-and-russian-attacks-elsewhere",
+    "Threat message": "HIGH THREAT",
+    "Raw threat rating": 5.795454545454545,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Friday",
+      "Thursday",
+      "this day"
+    ],
+    "Possible times": [
+      "last night",
+      "a furious late night",
+      "40 hours"
+    ],
+    "Possible actors": [
+      "Nato",
+      "Kremlin",
+      "UN"
+    ],
+    "Keywords": [
+      "war",
+      "airstrikes",
+      "civilian",
+      "attack",
+      "invasion"
+    ]
+  },
+  {
+    "URL": "https://www.theguardian.com/commentisfree/2022/mar/01/russia-ukraine-war-politics-europe-britain",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.4772727272727273,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "2016",
+      "the last seven decades",
+      "years"
+    ],
+    "Possible times": [
+      "overnight"
+    ],
+    "Possible actors": [
+      "Kremlin",
+      "EU",
+      "Nato"
+    ],
+    "Keywords": [
+      "military",
+      "repression",
+      "assertiveness",
+      "tragedy",
+      "terror"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-kherson-peril-more-1m-flee-n1290720",
+    "Threat message": "HIGH THREAT",
+    "Raw threat rating": 12.272727272727273,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Thursday",
+      "Tuesday",
+      "this week"
+    ],
+    "Possible times": [
+      "the early hours of the morning",
+      "Thursday evening",
+      "Each morning"
+    ],
+    "Possible actors": [
+      "Usmanov",
+      "Congress",
+      "White House"
+    ],
+    "Keywords": [
+      "military",
+      "invasion",
+      "war",
+      "civilian",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/world/russia-ukraine-news",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "The United Nations"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.nbcnews.com/investigations/frustrated-putin-may-order-escalation-violence-ukraine-us-officials-sa-rcna18026",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 3.977272727272727,
+    "Possible location": "Kyiv",
+    "Possible dates": [
+      "Monday",
+      "2000",
+      "2008"
+    ],
+    "Possible times": [
+      "24 hours"
+    ],
+    "Possible actors": [
+      "Rubio",
+      "Kremlin",
+      "the Intelligence Committee"
+    ],
+    "Keywords": [
+      "military",
+      "war",
+      "concern",
+      "invasion",
+      "civilian"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/russia-war-ukraine-putin-sanctions-oligarchs-protests-rcna18115",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.45454545454545453,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Monday",
+      "three days",
+      "1998"
+    ],
+    "Possible times": [
+      "Almost overnight"
+    ],
+    "Possible actors": [
+      "Kremlin",
+      "the Moscow Exchange",
+      "the Institute of International Finance"
+    ],
+    "Keywords": [
+      "assault",
+      "war",
+      "consequence",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-nuclear-scare-power-plant-shelled-n1290843",
+    "Threat message": "HIGH THREAT",
+    "Raw threat rating": 15,
+    "Possible location": "Kyiv",
+    "Possible dates": [
+      "Friday",
+      "Thursday",
+      "Saturday"
+    ],
+    "Possible times": [
+      "morning",
+      "8 a.m.",
+      "three-night"
+    ],
+    "Possible actors": [
+      "NATO",
+      "NBC News",
+      "BBC"
+    ],
+    "Keywords": [
+      "invasion",
+      "war",
+      "attack",
+      "civilian",
+      "military"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/ukraine-russia-war-updates-temporary-cease-fire-mariupol-russia-says-rcna18831",
+    "Threat message": "HIGH THREAT",
+    "Raw threat rating": 6.4772727272727275,
+    "Possible location": "Kyiv",
+    "Possible dates": [
+      "Saturday",
+      "nine days ago",
+      "This comes days"
+    ],
+    "Possible times": [
+      "morning",
+      "afternoon",
+      "hours"
+    ],
+    "Possible actors": [
+      "Visa",
+      "Mastercard",
+      "Congress"
+    ],
+    "Keywords": [
+      "civilian",
+      "war",
+      "attack",
+      "military",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/russias-invasion-ukraine-forces-germany-diplomatic-u-turn-rcna18345",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 2.6136363636363633,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "four years",
+      "seventh day",
+      "Tuesday"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NATO",
+      "Phillips",
+      "the Organization for Security and Cooperation in Europe"
+    ],
+    "Keywords": [
+      "War",
+      "invasion",
+      "military",
+      "war",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/russia-ukraine-nuclear-plant-shelling-fire-invasion-putin-rcna18685",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 2.272727272727273,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Friday",
+      "this day",
+      "nine days"
+    ],
+    "Possible times": [
+      "morning",
+      "early Saturday"
+    ],
+    "Possible actors": [
+      "NATO",
+      "NBC News",
+      "State"
+    ],
+    "Keywords": [
+      "war",
+      "assault",
+      "terrorism",
+      "invasion",
+      "civilian"
+    ]
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/us-news/virginia-substitute-teacher-suspended-russia-comments-rcna18481",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "65",
+      "Friday"
+    ],
+    "Possible times": [
+      "hours"
+    ],
+    "Possible actors": [
+      "Arlington Public Schools",
+      "The Washington Post",
+      "Sputnik News"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.nbcnews.com/news/world/russia-ukraine-meet-fighting-kyiv-sanctions-putin-economy-rcna17893",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 3.977272727272727,
+    "Possible location": "Kyiv",
+    "Possible dates": [
+      "Monday",
+      "Sunday",
+      "last week"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NBC News",
+      "The International Criminal Court",
+      "the European Union"
+    ],
+    "Keywords": [
+      "military",
+      "crime",
+      "civilian",
+      "assault",
+      "killed"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/zelensky-aide-warns-russia-ukraine-war-prologue-to-global-massacre-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.3636363636363635,
+    "Possible location": "West",
+    "Possible dates": [
+      "daily",
+      "Wednesday",
+      "a week"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NATO",
+      "the Presidential Office of Ukraine",
+      "the European Union"
+    ],
+    "Keywords": [
+      "war",
+      "conflict",
+      "military",
+      "bomb",
+      "attacked"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/live-updates-russia-ukraine-crisis-2022-2",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.6818181818181818,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "January 10, 2022",
+      "Saturday",
+      "Friday"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "The International Monetary Fund",
+      "the International Monetary Fund",
+      "STEFANI REYNOLDS/AFP"
+    ],
+    "Keywords": [
+      "war",
+      "tragic",
+      "conflict",
+      "fighting",
+      "consequence"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/russia-war-ukraine-could-triple-ocean-shipping-rates-experts-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.25,
+    "Possible location": "the Black Sea",
+    "Possible dates": [
+      "Monday",
+      "Thursday",
+      "two years"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "The New York Times",
+      "tech news & scoops",
+      "FourKites"
+    ],
+    "Keywords": [
+      "invasion",
+      "conflict",
+      "war"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/china-breaks-silence-ukraine-russia-says-concerned-nuclear-safety-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.1363636363636365,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "Friday",
+      "daily",
+      "Earlier this week"
+    ],
+    "Possible times": [
+      "early Friday morning"
+    ],
+    "Possible actors": [
+      "Smoke",
+      "Screenshot/YouTube",
+      "the United Nations"
+    ],
+    "Keywords": [
+      "attacked",
+      "attack",
+      "invasion",
+      "avoidance",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/google-tripadvisor-disable-reviews-russia-ukraine-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.3636363636363635,
+    "Possible location": "Google Maps",
+    "Possible dates": [
+      "daily",
+      "Thursday",
+      "last week"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "Google",
+      "TripAdvisor",
+      "CNET"
+    ],
+    "Keywords": [
+      "invasion",
+      "dead",
+      "conflict",
+      "war",
+      "caution"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/list-all-the-companies-pulling-out-of-russia-ukraine-war-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.3409090909090909,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "decades",
+      "Tuesday"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "BP",
+      "Apple",
+      "Ikea"
+    ],
+    "Keywords": [
+      "invasion",
+      "military"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/video-wreckage-of-giant-plane-destroyed-in-russia-ukraine-invasion-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.45454545454545453,
+    "Possible location": "Kyiv",
+    "Possible dates": [
+      "Friday",
+      "daily",
+      "the first day"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "Channel 1",
+      "Ukroboronprom",
+      "Channel 1's"
+    ],
+    "Keywords": [
+      "invasion",
+      "battle",
+      "strike"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/why-russia-is-attacking-ukraine-putin-justification-for-invasion-2022-2",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 3.0681818181818183,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Thursday",
+      "1991",
+      "Monday"
+    ],
+    "Possible times": [
+      "morning",
+      "early Thursday",
+      "early Thursday morning"
+    ],
+    "Possible actors": [
+      "NATO",
+      "the United Nations",
+      "the North Atlantic Treaty Organization"
+    ],
+    "Keywords": [
+      "invasion",
+      "threat",
+      "concern",
+      "attacked",
+      "fighting"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/ukraine-revealed-secret-battle-plans-left-behind-by-russian-troops-2022-3",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.8181818181818181,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "last 15 days",
+      "daily",
+      "January 18"
+    ],
+    "Possible times": [
+      "the early-morning hours"
+    ],
+    "Possible actors": [
+      "Defense Ministry",
+      "the 810th Separate Guards Naval Infantry Brigade",
+      "Joint Forces Operation"
+    ],
+    "Keywords": [
+      "invasion",
+      "war",
+      "battle",
+      "Forces",
+      "assault"
+    ]
+  },
+  {
+    "URL": "https://www.businessinsider.com/china-news-outlet-ukraine-coverage-instructions-weibo-horizon-russia-2022-2",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.22727272727272727,
+    "Possible location": "West",
+    "Possible dates": [
+      "Tuesday",
+      "daily",
+      "recent years"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "Horizon News",
+      "Beijing News",
+      "The Washington Post"
+    ],
+    "Keywords": [
+      "invasion",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/tucker-carlson-ukraine-confession_n_6221be88e4b012a262888be6",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.3409090909090909,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Thursday",
+      "months"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "Carlson",
+      "Fox News",
+      "Kremlin"
+    ],
+    "Keywords": [
+      "invasion",
+      "aggression"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/children-dead-ukraine-war_n_62230258e4b042f866ee1a54",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.45454545454545453,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "Friday",
+      "A day earlier",
+      "this weekend"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "KYIV",
+      "Oleksiy Danilov",
+      "Danilov"
+    ],
+    "Keywords": [
+      "death",
+      "wounded",
+      "fighting",
+      "war"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/russiaukraine-conflict-10_b_6962848",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.7954545454545454,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "A few years ago",
+      "the fall of 2013",
+      "January 16, 2014"
+    ],
+    "Possible times": [
+      "one coherent hour"
+    ],
+    "Possible actors": [
+      "the Kennan Institute",
+      "Commonwealth Club",
+      "the European Union"
+    ],
+    "Keywords": [
+      "terror",
+      "War",
+      "warfare",
+      "conflict",
+      "military"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/antony-blinken-russia-ukraine-invasion-update_n_6216d4d3e4b0f800ce1b82bf",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.0227272727272727,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Wednesday",
+      "Tuesday",
+      "February 24, 2022"
+    ],
+    "Possible times": [
+      "evening",
+      "morning"
+    ],
+    "Possible actors": [
+      "State",
+      "the State Department",
+      "CAROLYN"
+    ],
+    "Keywords": [
+      "aggression",
+      "attack",
+      "invasion",
+      "enemy",
+      "military"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/russia-ukraine-nuclear-power_n_62215bb5e4b03bc49a9875c0",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.0227272727272727,
+    "Possible location": "Europe",
+    "Possible dates": [
+      "Thursday",
+      "1986",
+      "March 4, 2022"
+    ],
+    "Possible times": [
+      "evening",
+      "morning"
+    ],
+    "Possible actors": [
+      "IMMEDIATELY",
+      "Kremlin",
+      "Zaporizhzhia Nuclear Power Plant"
+    ],
+    "Keywords": [
+      "risk",
+      "military",
+      "danger",
+      "invasion",
+      "death"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/bc-us-united-states-russia_n_61da678be4b04b42ab80b459",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.1363636363636365,
+    "Possible location": "Eastern Europe",
+    "Possible dates": [
+      "Saturday",
+      "Monday"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NATO",
+      "AP",
+      "White House"
+    ],
+    "Keywords": [
+      "threat",
+      "military",
+      "possibility",
+      "invasion",
+      "signaled"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/ukraine-singer-putin-bbc-interview_n_621f4fb7e4b0a7784bb1aa64",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": [
+      "this morning"
+    ],
+    "Possible actors": "ACTORS NOT FOUND",
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/un-biden-russia-ukraine-invasion_n_622023dce4b0a7b54cd92b15",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 1.8181818181818181,
+    "Possible location": "West",
+    "Possible dates": [
+      "Wednesday",
+      "March 2, 2022",
+      "today"
+    ],
+    "Possible times": [
+      "countless hours"
+    ],
+    "Possible actors": [
+      "U.N.",
+      "United Nations",
+      "the U.N. General Assembly"
+    ],
+    "Keywords": [
+      "war",
+      "invasion",
+      "attacking",
+      "aggression",
+      "abuse"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/china-russia-ukraine-war-olympics_n_6220b315e4b0afed0d632058",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.7954545454545454,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": [
+      "Thursday",
+      "daily",
+      "Feb. 4, hours"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NATO",
+      "AP",
+      "Foreign Ministry"
+    ],
+    "Keywords": [
+      "invasion",
+      "war",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "URL": "https://www.huffpost.com/entry/bc-ukraine-tensions_n_61f151b4e4b01d3f29951be0",
+    "Threat message": "SOME THREAT",
+    "Raw threat rating": 2.272727272727273,
+    "Possible location": "West",
+    "Possible dates": [
+      "Wednesday",
+      "this week",
+      "Earlier this month"
+    ],
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "NATO",
+      "Kremlin",
+      "AP"
+    ],
+    "Keywords": [
+      "military",
+      "invasion",
+      "war",
+      "killed",
+      "imminent"
+    ]
+  },
+  {
+    "URL": "https://thehill.com/blogs/pundits-blog/the-judiciary/270231-on-any-supreme-court-nominee-republicans-must-do-their-job",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0.7954545454545454,
+    "Possible location": "Obama",
+    "Possible dates": [
+      "the past four days",
+      "the previous several months",
+      "three decades"
+    ],
+    "Possible times": [
+      "a few hours",
+      "the same night"
+    ],
+    "Possible actors": [
+      "Senate",
+      "the Supreme Court",
+      "the Judiciary Committee"
+    ],
+    "Keywords": [
+      "death",
+      "Attack",
+      "risk",
+      "deadly",
+      "afraid"
+    ]
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-04/ukraine-update-russia-occupies-nuclear-plant-site-after-fire",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-02/will-russia-s-ruble-go-gold-backed-ukraine-war-to-impact-us-dollar-dominance",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-03/russia-attacks-cities-as-war-enters-second-week-ukraine-update",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-05/ukraine-update-civilian-safety-corridor-to-open-in-mariupol",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-02/russia-says-forces-captured-port-city-kherson-ukraine-update",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/graphics/2022-ukraine-russia-us-nato-conflict/",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-05/putin-warns-ukraine-as-safe-corridor-plans-descend-into-chaos",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2021-04-08/what-s-sparking-tension-between-russia-and-ukraine-quicktake",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-03-02/understanding-the-roots-of-russia-s-war-in-ukraine-quicktake",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  },
+  {
+    "URL": "https://www.bloomberg.com/news/articles/2022-02-24/putin-decides-to-conduct-military-operation-in-ukraine-tass",
+    "Threat message": "LOW THREAT",
+    "Raw threat rating": 0,
+    "Possible location": "LOCATION NOT FOUND",
+    "Possible dates": "DATE NOT FOUND",
+    "Possible times": "TIME NOT FOUND",
+    "Possible actors": [
+      "JavaScript"
+    ],
+    "Keywords": "NO RELEVANT KEYWORDS FOUND"
+  }
+]
